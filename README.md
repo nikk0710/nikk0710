@@ -14,11 +14,11 @@ I'm currently pursuing my studies at CMU (Carnegie Mellon University), with a pa
 
 - 🔹 Skills & Interests
 
-Web Development: Frontend & Backend development
-
-Software Testing: QA and testing automation
-
-Machine Learning: Building and applying ML models
+    Web Development: Frontend & Backend development
+    
+    Software Testing: QA and testing automation
+    
+    Machine Learning: Building and applying ML models
 
 UX/UI Design: Creating intuitive and engaging user interfaces
 
