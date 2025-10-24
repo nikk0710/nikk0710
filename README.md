@@ -9,21 +9,24 @@ I’m excited to keep learning, experimenting, and developing applications that 
 
 ## 🚀 About Me
 
-- Hi, I'm Aphirak Keawmool.
-I'm currently pursuing my studies at CMU (Carnegie Mellon University), with a passion for building innovative web applications and designing user-friendly experiences.
+Hi, I'm **Aphirak Keawmool** 👋  
+I'm currently pursuing my studies at **CMU (Carnegie Mellon University)**, with a passion for building innovative web applications and designing user-friendly experiences.
 
-- 🔹 Skills & Interests
+---
 
-    Web Development: Frontend & Backend development
-    
-    Software Testing: QA and testing automation
-    
-    Machine Learning: Building and applying ML models
+### 🔹 Skills & Interests
 
-UX/UI Design: Creating intuitive and engaging user interfaces
+- **💻 Web Development:** Frontend & Backend development  
+- **🧪 Software Testing:** QA and testing automation  
+- **🤖 Machine Learning:** Building and applying ML models  
+- **🎨 UX/UI Design:** Creating intuitive and engaging user interfaces  
 
-- 🎯 Goals
-I aim to contribute to impactful web projects and ML-driven applications while improving the overall user experience. My goal is to blend technical skills with design thinking to build products that are both functional and delightful for users.
+---
+
+### 🎯 Goals
+
+I aim to contribute to impactful web projects and ML-driven applications while improving the overall user experience.  
+My goal is to blend technical skills with design thinking to build products that are both functional and delightful for users.
 
 ## My Articles
 - [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
