@@ -10,7 +10,7 @@ I’m excited to keep learning, experimenting, and developing applications that 
 ## 🚀 About Me
 
 Hi, I'm **Aphirak Keawmool** 
-I'm currently pursuing my studies at **CMU (Carnegie Mellon University)**, with a passion for building innovative web applications and designing user-friendly experiences.
+I'm currently pursuing my studies at **Chiang Mai University**, with a passion for building innovative web applications and designing user-friendly experiences.
 
 ---
 
