@@ -6,8 +6,10 @@ I’m excited to keep learning, experimenting, and developing applications that 
 
 <!--![nick07-'s Stats](https://github-readme-stats.vercel.app/api?username=nick0710&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)-->
 
+<p align="center">
+  ## 🚀 About Me
+</p>
 
-## 🚀 About Me
 
 Hi, I'm **Aphirak Keawmool** 
 I'm currently pursuing my studies at **CMU (Carnegie Mellon University)**, with a passion for building innovative web applications and designing user-friendly experiences.
@@ -33,7 +35,7 @@ My goal is to blend technical skills with design thinking to build products that
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,py,html,go,css,cs,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,html,go,css,cpp,docker)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
