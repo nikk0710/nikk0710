@@ -1,4 +1,4 @@
-# Hi, I'm < Nikkkk >! 👋
+# Hi, I'm < Nikkkk >! 
 
 I’m an undergraduate Computer Science student at Chiang Mai University, passionate about technology and artificial intelligence.
 I enjoy exploring how AI works and love building small projects that combine creativity with code.
@@ -9,7 +9,7 @@ I’m excited to keep learning, experimenting, and developing applications that 
 
 ## 🚀 About Me
 
-Hi, I'm **Aphirak Keawmool** 👋  
+Hi, I'm **Aphirak Keawmool** 
 I'm currently pursuing my studies at **CMU (Carnegie Mellon University)**, with a passion for building innovative web applications and designing user-friendly experiences.
 
 ---
@@ -29,11 +29,11 @@ I aim to contribute to impactful web projects and ML-driven applications while i
 My goal is to blend technical skills with design thinking to build products that are both functional and delightful for users.
 
 ## My Articles
-- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
+- 
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,py,html,go,css,cs,docker)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
