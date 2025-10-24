@@ -1,6 +1,8 @@
 # Hi, I'm < Nikkkk >! 👋
 
-I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+I’m an undergraduate Computer Science student at Chiang Mai University, passionate about technology and artificial intelligence.
+I enjoy exploring how AI works and love building small projects that combine creativity with code.
+I’m excited to keep learning, experimenting, and developing applications that make a real impact.
 
 ![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
