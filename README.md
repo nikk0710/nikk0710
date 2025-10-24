@@ -9,10 +9,21 @@ I’m excited to keep learning, experimenting, and developing applications that 
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
-- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
-- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
+- Hi, I'm Aphirak Keawmool.
+I'm currently pursuing my studies at CMU (Carnegie Mellon University), with a passion for building innovative web applications and designing user-friendly experiences.
+
+- 🔹 Skills & Interests
+
+Web Development: Frontend & Backend development
+
+Software Testing: QA and testing automation
+
+Machine Learning: Building and applying ML models
+
+UX/UI Design: Creating intuitive and engaging user interfaces
+
+- 🎯 Goals
+I aim to contribute to impactful web projects and ML-driven applications while improving the overall user experience. My goal is to blend technical skills with design thinking to build products that are both functional and delightful for users.
 
 ## My Articles
 - [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
