@@ -4,7 +4,8 @@ I’m an undergraduate Computer Science student at Chiang Mai University, passio
 I enjoy exploring how AI works and love building small projects that combine creativity with code.
 I’m excited to keep learning, experimenting, and developing applications that make a real impact.
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![nick07-'s Stats](https://github-readme-stats.vercel.app/api?username=nick07-&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 
 ## 🚀 About Me
 
