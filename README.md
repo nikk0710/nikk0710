@@ -35,7 +35,7 @@ My goal is to blend technical skills with design thinking to build products that
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=java,py,html,go,css,cpp,docker)](https://skillicons.dev)
 
-## 🌱 Currently Exploring
+<!--## 🌱 Currently Exploring
 
 - 🚀 Learning Full Stack Web Development
   - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
