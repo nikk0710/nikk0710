@@ -34,6 +34,12 @@ My goal is to blend technical skills with design thinking to build products that
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=java,py,html,go,css,cpp,docker)](https://skillicons.dev)
 
+
+
+## 📊 My Contribution Activity Graph
+
+[![Contribution Graph](https://raw.githubusercontent.com/nick0710/contribution-graph-readme/main/README.md)](https://github.com/nick0710/contribution-graph-readme)
+
 <!--## 🌱 Currently Exploring
 
 - 🚀 Learning Full Stack Web Development
