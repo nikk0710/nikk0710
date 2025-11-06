@@ -36,9 +36,7 @@ My goal is to blend technical skills with design thinking to build products that
 
 
 
-## 📊 My Contribution Activity Graph
 
-👉 [ดู Contribution Graph ของฉันที่นี่](https://github.com/nick0710/contribution-graph-readme)
 
 <!--## 🌱 Currently Exploring
 
