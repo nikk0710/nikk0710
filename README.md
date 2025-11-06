@@ -30,9 +30,6 @@ My goal is to blend technical skills with design thinking to build products that
 
 ## My Articles
 - 
-## 📊 My Contribution Activity Graph
-
-![Contribution Graph](https://raw.githubusercontent.com/nick0710/contribution-graph-readme/main/contribution-graph.svg)
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=java,py,html,go,css,cpp,docker)](https://skillicons.dev)
